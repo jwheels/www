@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.andrewnet.net/</loc>
-		<lastmod>2021-02-13T04:45:19+00:00</lastmod>
+		<lastmod>2021-02-15T20:37:26+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.andrewnet.net/wp-content/uploads/2019/09/a-circle-favicon.png</image:loc>
 			<image:title><![CDATA[a-circle-favicon]]></image:title>
@@ -37,48 +37,16 @@
 		<lastmod>2019-07-01T02:06:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.andrewnet.net/search/</loc>
-		<lastmod>2019-10-01T17:50:00+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.andrewnet.net/soap/</loc>
-		<lastmod>2019-10-01T17:51:22+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.andrewnet.net/wp-content/uploads/2019/05/adnt-soap-transparent-768x237.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.andrewnet.net/word-problems/</loc>
 		<lastmod>2019-12-13T15:23:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.andrewnet.net/trips/</loc>
-		<lastmod>2020-01-04T04:24:41+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.andrewnet.net/wp-content/uploads/2019/06/atl-cover-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.andrewnet.net/wp-content/uploads/2019/04/chicover-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.andrewnet.net/wp-content/uploads/2019/04/pit-coer-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.andrewnet.net/wp-content/uploads/2019/04/nc-cover-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.andrewnet.net/wp-content/uploads/2019/04/buf-cover-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.andrewnet.net/wp-content/uploads/2019/04/stl-cover-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.andrewnet.net/wp-content/uploads/2019/04/ottcover-1024x576.jpg</image:loc>
-		</image:image>
+		<loc>https://www.andrewnet.net/about-me/</loc>
+		<lastmod>2021-02-15T20:33:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.andrewnet.net/callie/</loc>
-		<lastmod>2020-01-09T14:43:11+00:00</lastmod>
+		<lastmod>2021-02-15T20:34:05+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.andrewnet.net/wp-content/uploads/elementor/thumbs/new-adnt-jpg-o45xti26kkiecef6a1v3h9assh44t0b3x7hnock8v0.jpg</image:loc>
 			<image:title><![CDATA[new-adnt-jpg]]></image:title>
@@ -128,60 +96,49 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.andrewnet.net/random-andrew/</loc>
-		<lastmod>2020-01-09T14:48:45+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.andrewnet.net/vape/</loc>
-		<lastmod>2020-02-28T19:03:18+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.andrewnet.net/wikipedia/</loc>
-		<lastmod>2020-03-31T01:25:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.andrewnet.net/wordpress/</loc>
-		<lastmod>2020-04-13T05:32:54+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.andrewnet.net/login/</loc>
-		<lastmod>2020-09-25T18:34:54+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.andrewnet.net/wp-content/uploads/2019/09/a-circle-favicon.png</image:loc>
-			<image:title><![CDATA[a-circle-favicon]]></image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.andrewnet.net/login/remote-auth/</loc>
-		<lastmod>2020-09-25T18:35:26+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.andrewnet.net/support/</loc>
-		<lastmod>2020-10-24T18:54:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.andrewnet.net/complaints/</loc>
-		<lastmod>2020-11-16T01:48:57+00:00</lastmod>
+		<loc>https://www.andrewnet.net/contact-me/</loc>
+		<lastmod>2021-02-15T20:36:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.andrewnet.net/speedtest/</loc>
-		<lastmod>2020-12-02T00:43:06+00:00</lastmod>
+		<lastmod>2021-02-15T20:38:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.andrewnet.net/contact-me/</loc>
-		<lastmod>2021-02-06T03:19:14+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.andrewnet.net/about-me/</loc>
-		<lastmod>2021-02-12T22:03:14+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.andrewnet.net/terms/</loc>
-		<lastmod>2021-02-12T22:05:37+00:00</lastmod>
+		<loc>https://www.andrewnet.net/support/</loc>
+		<lastmod>2021-02-15T20:38:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.andrewnet.net/tech/</loc>
-		<lastmod>2021-02-12T22:06:10+00:00</lastmod>
+		<lastmod>2021-02-15T20:39:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.andrewnet.net/terms/</loc>
+		<lastmod>2021-02-15T20:40:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.andrewnet.net/trips/</loc>
+		<lastmod>2021-02-15T20:41:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.andrewnet.net/wp-content/uploads/2019/06/atl-cover-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.andrewnet.net/wp-content/uploads/2019/04/chicover-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.andrewnet.net/wp-content/uploads/2019/04/pit-coer-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.andrewnet.net/wp-content/uploads/2019/04/nc-cover-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.andrewnet.net/wp-content/uploads/2019/04/buf-cover-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.andrewnet.net/wp-content/uploads/2019/04/stl-cover-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.andrewnet.net/wp-content/uploads/2019/04/ottcover-1024x576.jpg</image:loc>
+		</image:image>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
